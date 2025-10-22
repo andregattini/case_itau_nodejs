@@ -26,4 +26,4 @@ No projeto foi disponibilizada uma API de Clientes com os metodos abaixo realiza
 4. Para nós segurança é um tema sério, implemente as ações que achar prudente para garantir a segurança da sua aplicação
 5. Utilizando o Angular, crie uma aplicação web  que consuma todos os metodos da API de clientes
 
-Após finalizar o case, envie o link do seu github com a solução final para o e-mail andre.gattini@itau-unibanco.com.br
+Após finalizar o case, envie o todo o código fonte e o desenho de solução em um arquivo zipado para os e-mails andre_gattini@hotmail.com e andre.gattini@itau-unibanco.com.br
